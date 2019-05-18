@@ -1,3 +1,6 @@
+
+/* it is sample coe from upgrad */
+
 import java.util.Stack;
 import java.util.Scanner;
 
